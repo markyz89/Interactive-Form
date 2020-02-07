@@ -214,3 +214,25 @@ option {
 		clear: both;
 	}
 }
+
+/* ================================= 
+  Mark's styles
+==================================== */
+
+.input-hidden {
+	display: none;
+}
+
+.failure-message {
+	color: red;
+	padding: 0;
+	margin-top: 0;
+}
+
+.failure-border {
+	border: 2px solid red;
+}
+
+/* fieldset.failure-border {
+	padding: 20px;
+} */
